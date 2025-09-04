@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkn2_land=self.webpackChunkn2_land||[]).push([[2848],{2848:(e,t,a)=>{a.r(t),a.d(t,{default:()=>c});var n=a(35143),s=a(69098),r=a(42553),l=a(46053),u=(a(81806),a(76460),a(47249),a(85842)),o=a(13312);let p=class extends(s.A.ClonableMixin(r.A)){constructor(){super(...arguments),this.outSpatialReference=null}};(0,n._)([(0,l.MZ)({type:o.default,json:{name:"outSR",write:!0}})],p.prototype,"outSpatialReference",void 0),p=(0,n._)([(0,u.$)("esri.rest.support.ImageBoundaryParameters")],p);const c=p}}]);
-//# sourceMappingURL=2848.a79dcde3.chunk.js.map

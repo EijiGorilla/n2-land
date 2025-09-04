@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkn2_land=self.webpackChunkn2_land||[]).push([[35238],{35238:(e,t,l)=>{l.r(t),l.d(t,{Extent:()=>i,Multipoint:()=>c,Point:()=>p,Polygon:()=>s,Polyline:()=>_,SpatialReference:()=>r,__exported__:()=>k});var n=l(76797),a=l(66388),u=l(19247),d=l(65215),f=l(23701),o=l(13312);const i=n.default,c=a.default,p=u.default,s=d.default,_=f.default,r=o.default;function k(){}}}]);
-//# sourceMappingURL=35238.98309cb2.chunk.js.map
